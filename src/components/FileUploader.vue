@@ -38,7 +38,7 @@
     </div>
     <div class="row justify-content-center mt-3">
       <div
-        class="col-12 text-capitalize badge badge-primary text-wrap"
+        class="col-12 text-capitalize badge badge-dark text-wrap"
         style="width: 100%"
         v-if="byteCount>0"
       >
